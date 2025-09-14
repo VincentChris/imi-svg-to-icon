@@ -1,0 +1,15 @@
+.vscode/**
+.vscode-test/**
+src/**
+.gitignore
+.git/**
+.yarnrc.yml
+**/*.ts
+**/*.map
+.eslintrc.json
+**/.eslintrc.json
+**/tsconfig.json
+**/.prettierrc
+prompt.md
+pnpm-lock.yaml
+node_modules/**
