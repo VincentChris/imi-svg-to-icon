@@ -2,7 +2,7 @@
   "name": "imi-svg-to-icon",
   "displayName": "IMI SVG to React Icon",
   "description": "Easily convert SVG files to React components with @imile/components SvgIcon. Right-click any SVG file to generate TypeScript React component instantly.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "VincentChris",
   "license": "MIT",
   "keywords": [
